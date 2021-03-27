@@ -26,4 +26,8 @@ Generates high quality README.md file for your projects.
 test
 
 ## Tests
-tests 
+testing 
+
+## Questions
+If you have any questions about this project, you can reach me at jakech617@gmail.com
+

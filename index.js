@@ -95,6 +95,10 @@ ${answers.contributing}
 
 ## Tests
 ${answers.tests} 
+
+## Questions
+If you have any questions about this project, you can reach me at ${answers.email}
+
 `
     fs.writeFile('./README.md', readMeGen, (err) => {
         if (err) throw err
