@@ -3,12 +3,16 @@
 # README Generator
 
 ## Table of Contents
-* [1. Description](#description)
-* [2. Installation](#installation)
-* [3. Usage](#usage)
-* [4. License](#license)
-* [5. Contributions](#contributions)
-* [6. Tests](#tests)
+* [1. Demo](#demo)
+* [2. Description](#description)
+* [3. Installation](#installation)
+* [4. Usage](#usage)
+* [5. License](#license)
+* [6. Contributions](#contributions)
+* [7. Tests](#tests)
+
+## Demo
+![Untitled_ Mar 27, 2021 2_25 PM](https://user-images.githubusercontent.com/74689981/112730705-5ea0b480-8f09-11eb-8253-3cac572e0d55.gif)
 
 ## Description
 Generate a high quality README.md for your GitHub repo.
